@@ -1,6 +1,6 @@
 {
   "name": "ngx-viewport-service",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Viewport service, allows to read viewport size cache through",
   "main": "./bundles/ngx-viewport-service.umd.js",
   "module": "./ngx-viewport-service.es5.js",

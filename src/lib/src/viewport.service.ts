@@ -37,6 +37,8 @@ export class ViewportService {
       }
 
       this.viewport = { width : e[a + 'Width'] , height : e[a + 'Height'] };
+    } else {
+      this.viewport = { width: 0 , height: 0 };
     }
   }
 }
